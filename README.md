@@ -9,34 +9,20 @@ We also have an undetected way of skipping ads if you get blocked from the video
 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [How to bypass the video player ban from using an ad blocker](#how-to-bypass-the-video-player-ban-from-using-an-ad-blocker)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [License](#license)
+3. [Usage](#usage)
+4. [Contribution](#contribution)
+5. [License](#license)
 
 ## Installation
 
-1. **Install Tampermonkey**:
-   If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-   - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
+**Install As Unpacked Extension**:
+To install an Unpacked Extension on Chrome, follow these steps:
 
-2. **Open Tampermonkey Dashboard**:
-   Click on the Tampermonkey extension icon in your browser and select "Dashboard."
-
-3. **Create a New Script**:
-   In the Tampermonkey Dashboard, click on the "Utilities" tab and select "Create a new script."
-
-4. **Install the Script**:
-   [Click Here and Press Install](https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js).
-
-5. **Enable the Script**:
-   Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
-
-6. **Disable your adblocker**:
-   **whitelist YouTube on any Chrome extensions that block ads or any third-party things that disable ads**. Don't worry our script removes ads on youtube.
+1. Download the extension files and save them to a folder on your computer.
+2. Open Chrome and go to the Extensions page by typing "chrome://extensions" in the address bar.
+3. Enable Developer Mode by clicking the toggle switch in the top right corner.
+4. Click the "Load unpacked" button and select the folder where you saved the extension files.
+5. The extension should now be installed and ready to use.
 
 ## How to use the undetected AdBlock
 
@@ -51,7 +37,7 @@ Note this also allows you to watch videos when your video player banned from usi
 
 ## Usage
 
-Once you've installed and enabled the userscript, it should start working automatically Enjoy.
+Once you've installed and enabled the extension, it should start working automatically Enjoy.
 
 ## Contribution
 

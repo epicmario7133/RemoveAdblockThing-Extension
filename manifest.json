@@ -1,0 +1,16 @@
+{
+    "name": "Remove Adblock Thing",
+    "version": "1.0",
+    "description": "Removes adblock detection from YouTube.",
+    "manifest_version": 3,
+    "icons": {
+        "128": "logo.png"
+      },
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["Youtube-Ad-blocker-Reminder-Remover.user.js"]
+      }
+    ]
+  }
+  
